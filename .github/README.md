@@ -9,7 +9,7 @@ just put this in your modules directory.
 ##
 How to test:
 * go the Hellfire Peninsula and try to fly, it won't work. Go to any other place you normally can fly eg. Nagrand and you should be able to fly normally.
-* remove the module, remove the module and go to the Hellfire Peninsula - you should be able to fly again.
+* remove the module and go to the Hellfire Peninsula - you should be able to fly again.
 
 ## Credits
 
